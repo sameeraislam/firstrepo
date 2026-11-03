@@ -1,0 +1,483 @@
+    1  git -v 
+    2    
+    3   git -v
+    4  git --version
+    5  git config --global user,name"Sameera Islam "
+    6  git config --global user.email"sameeraislam0@gmail.com
+    7  git config user.name
+    8  git -v 
+    9  git --version
+   10   git config --global user.name "Sameera Islam"
+   11  git config user.name
+   12  git confi --global user.email.com
+   13  git --version
+   14  git config -- global user.name "Sameera Islam"
+   15  git congig user.name
+   16  git --v
+   17  git --version
+   18  git config --global user.name "Sameera Islam"
+   19  git config user.name
+   20  git config --global user.email
+   21  git config user.email
+   22  git config --global user.email
+   23  git --version
+   24  git config --global user.name "Sameera Islam"
+   25  git config user.name
+   26  git config --global user.email"sameeraislam0@gmail.com"
+   27  git config user.email
+   28  git --version
+   29  git config --global user.name "Sameera Islam "
+   30  git --version
+   31  git config --global user.name"Sameera Islam"
+   32  git config user.name
+   33  git config user.email
+   34  git config --global user.email "sameeraislam0@gmail.com"
+   35  git config user.email
+   36  project
+   37  ~/Desktop$ ls
+   38  project
+   39  ~/Desktop
+   40  cd ~/Desktop
+   41  cdd ~/Desktop
+   42  cd ~/Desktop
+   43  cd~/Desktop ls
+   44  cd ~/Desktop ls
+   45  project
+   46  ~/Desktop$
+   47  ~/Desktop$ ls
+   48  ~/Desktop$ cd project/
+   49  ~/Desktop$ cd
+   50  git config user.name
+   51  git config user.email
+   52  cd
+   53  ~/cd
+   54  git
+   55  Desktop ls
+   56  Desktop 
+   57  Desktop ls Desktop mkdie peoject Desktop ls project  Desktop
+   58  cd~/Desktop
+   59  cd ~/Desktop
+   60  ls
+   61  cd ~/Desktop/project
+   62  cd~
+   63  ls
+   64  project
+   65  ps1 = '\w \$'
+   66  rm ~/.bash-history
+   67  clear
+   68  cd ~/Desktop
+   69  $~/Desktop
+   70  ls~/Desktop
+   71  ls
+   72  git -v
+   73  clear
+   74  cd ~/Desktop
+   75  ls
+   76  cd project6
+   77  cd status
+   78  git status
+   79  git init
+   80  git status
+   81  ls -a
+   82  ls -al
+   83  cd .git/
+   84  ls
+   85  cd ..
+   86  ls -a
+   87  rm -rf .git/
+   88  ls -a
+   89  git status
+   90  git init
+   91  ls
+   92  history/c
+   93  cler
+   94  clear
+   95  ls
+   96  history /c
+   97  clear
+   98  mkdir project
+   99  ls
+  100  cd project/
+  101  ls
+  102  pwd
+  103  git init
+  104  git init
+  105  c ..
+  106  clear
+  107  mkdir project
+  108  ls
+  109  cd project/
+  110  ls
+  111  pwd
+  112  git init
+  113  git status
+  114  touch hobbies.txt movies.txt songs.txt
+  115  ls
+  116  git status
+  117  git commit -m"first commit
+  118  clear
+  119  ls
+  120  "
+  121  clear
+  122  mkdir projct
+  123  clear
+  124  mkdir project
+  125  ls
+  126  git commit -m"first commit"
+  127  history /
+  128  histroy /c
+  129  clear
+  130  mkdir project 
+  131  history /c
+  132  clear
+  133  mkdir project
+  134   cd ~/Desktop
+  135  ls
+  136  cd project/
+  137  git status
+  138  history /c
+  139  clear 
+  140  ls
+  141  cd project/
+  142  git status
+  143  histrory /clear 
+  144  clear
+  145  git status
+  146  history /c
+  147  clear
+  148  cd
+  149  ls
+  150  cd
+  151  cd ~/Desktop
+  152  ls
+  153  git status
+  154  history/c
+  155  clear
+  156  ls
+  157  cd project/
+  158  git status
+  159  .git
+  160  cd ~/Desktop
+  161  ls -a
+  162  cd project/
+  163  git status
+  164  clear
+  165  cd ..
+  166  ls
+  167  git status
+  168  cd ..
+  169  git status
+  170  history /c
+  171  clear
+  172  ~/ Desktop
+  173  ls
+  174  ~/Desktop
+  175  git status
+  176  clear
+  177  cd ~
+  178  cd Desktop
+  179  mkdir project
+  180  cd project
+  181  ls
+  182  git status
+  183  cd ~/Desktop
+  184  ls
+  185  cd project
+  186  git status
+  187  clear
+  188  ls
+  189  cd project/
+  190  git status
+  191  cd ~/project
+  192  cd~/Desktop
+  193  cd ~/Desktop
+  194  ls
+  195  cd
+  196  cd ~/Desktop
+  197  ls
+  198  cd
+  199  ls
+  200  cd project
+  201  ls
+  202  clear
+  203  cd ~/Desktop
+  204  ls
+  205  cd project
+  206  git status
+  207  clear
+  208  cd ~/Desktop
+  209  ls
+  210  cd project/
+  211  git status
+  212  git init
+  213  git status
+  214  ls
+  215  ls -a
+  216  ls -al
+  217  cd .git/
+  218  ls
+  219  cd ..
+  220  ls -a
+  221  rm -rf .git/
+  222  ls -a
+  223  git status
+  224  git init
+  225  ls
+  226  cd project
+  227  cd ~/Desktop/project
+  228  explorer .
+  229  explorer .
+  230  history /c
+  231  clear
+  232  cd ~/Desktop
+  233  ls
+  234  cd project/
+  235  git status
+  236  ls
+  237  c ..
+  238  clear
+  239  cd ~/Desktop
+  240  ls
+  241  cd project/
+  242  git status
+  243  git init
+  244  ls
+  245  git status
+  246  git init
+  247  git status
+  248  history /c
+  249  clear
+  250  Desktop ls
+  251  mkdir project
+  252  history /c
+  253  clear
+  254  ls
+  255  cd project
+  256  git init
+  257  git status
+  258  cd ..
+  259  ls -a
+  260  git status
+  261  history /c
+  262  clear
+  263  ls
+  264  cd project/
+  265  git status
+  266  mkdir project
+  267  ls
+  268  history -w
+  269  midir project
+  270  mkdir project
+  271  mkdir project
+  272  c ..
+  273  rm filename
+  274  ls
+  275  rm -r project
+  276  :
+  277  history /c
+  278  clear
+  279  mkdir project
+  280  cd project
+  281  rm -r project
+  282  pwd
+  283  ls -la
+  284  mkdir project
+  285  cd project
+  286  ls -la
+  287  cd project
+  288  ls - la
+  289  ls -la
+  290  cd project
+  291  ls -la
+  292  rm -rf .git
+  293  la -la
+  294  ls -la
+  295  git status
+  296  cd ~
+  297  ls -ld .git
+  298  rm -rf .git
+  299  git status
+  300  git status
+  301  histroy /c
+  302  clear
+  303  mkdir project
+  304  mkdir project
+  305  ls
+  306  history -w
+  307  ls
+  308  mkdir project
+  309  mkdir project
+  310  cd project
+  311  mkdir project
+  312  cd project
+  313  pwd
+  314   mkdir project
+  315  rm -r
+  316  cd project
+  317  rm -rf .git
+  318  mkdir project
+  319  ls
+  320  cd project/
+  321  ls
+  322  pwd
+  323  git init
+  324  git status
+  325  touch hobbies.txt movies.txt songs.txt
+  326  ls
+  327  git status
+  328  git commit -m"first commit"
+  329  git add .
+  330  git commit -m"first commit"
+  331  git status
+  332  ls -a
+  333  git branch
+  334  git branch feature
+  335  git branch feature
+  336  git switch feature switched to branch 'feature'
+  337  git switch feature
+  338  git switch -
+  339  git branch
+  340  git checkout feature
+  341  git checkoout
+  342  git checkout
+  343  git switch -c sam
+  344  git switch -c anotherSam
+  345  git branch
+  346  git checkout master
+  347  git branch -d anotherSam
+  348  git feature
+  349  git branch
+  350  ls
+  351  vim hobbies
+  352  git status
+  353  git checkout hobbies.txt
+  354  git status
+  355  i
+  356  vim hobbies.txt
+  357  git status
+  358  ls
+  359  vim movies.txt
+  360  git status
+  361  git add hobbies.txt
+  362  ls
+  363  git status
+  364  git checkout .
+  365  git checkout movies.txt
+  366  git checkout movies.txt
+  367  git checkouotr .
+  368  git checkout .
+  369  git status
+  370  git commit -m"hobbies"
+  371  git status
+  372  git checkout -
+  373  git branch 
+  374  git checkout feature
+  375  git checkout -
+  376  git branch
+  377  git checkout -
+  378  git branch
+  379  ls
+  380  cat hobbies.txt
+  381  vim movies.txt
+  382  git commit -am"movies"
+  383  git branch
+  384  git checkout master
+  385  cat movies.txt
+  386  git log --oneline
+  387  ls
+  388  vim song.txt
+  389  git commit -am"songs"
+  390  ls
+  391  git commit -am"songs"
+  392  git status
+  393  git log --oneline
+  394  git checkout 68b2a49
+  395  git log --oneline
+  396  ls -a
+  397  cd .git/
+  398  ls
+  399  cat Head
+  400  cd refs/
+  401  cd refs/heads/
+  402  cd refs/
+  403  cat Head
+  404  cat HEAD
+  405  git branch
+  406  git switch master
+  407  git switch sam
+  408  git branch
+  409  git log --oneline
+  410  git checkout
+  411  git checkout 68b2a49
+  412  git chekout 181112b
+  413  git switch -
+  414  pwd
+  415  cd ~/Desktop
+  416  ls
+  417  mkdir git-practice
+  418  cd git-practice
+  419  code .
+  420  touch index.html
+  421  git status
+  422  pwd
+  423  git init
+  424  git status
+  425  git add index.html
+  426  git status
+  427  ls
+  428  cd project
+  429  ls
+  430  git init
+  431  ls
+  432  ls -a
+  433  ls .git
+  434  touch names.txt
+  435  git status
+  436  git add names.txt
+  437  git status
+  438  git commit -m "name.txt file added"
+  439  git status 
+  440  vi names.txt
+  441  git status
+  442  cat names.txt
+  443  git add .
+  444  git status
+  445  git restore --staged names.txt
+  446  git status
+  447  gut add names.txt 
+  448  git add names.txt
+  449  git status
+  450  git commit -m "names.txt files modified"
+  451  git log
+  452  rm -rr names.txt
+  453  git status
+  454  git add .
+  455  git commit -m "names.txt file deleted
+
+git status
+  456  git commit -m "names .txt file deleted"
+  457  git log
+  458  git reset  Mon Nov 2 20:22:11 2026 +0530
+  459  git reset 0b4fe5374b4fff1cc15f64ae35efba69db815a60
+  460  git log
+  461  git status 
+  462  git add .
+  463  git status
+  464  git touch surnames.txt
+  465  touch surnames.txt
+  466  git add . 
+  467  git status
+  468  vi surnames.txt
+  469  touch houses.txt
+  470  gitb add .
+  471  git add .
+  472  git status
+  473  git stash
+  474  git status
+  475  git log
+  476  cat names.txt
+  477  git stash pop
+  478  git add .
+  479  git stash
+  480  git stash clear
+  481  history > commands.txt
